@@ -1,0 +1,15 @@
+public class Teacher {
+    String tname,subject;
+    
+    void input(String tname,String subject)
+    {
+        this.tname=tname;
+        this.subject=subject;
+    }
+    
+    void output()
+    {
+        System.out.println("Teacher name =" +tname);
+        System.out.println(" Subject =" +subject);
+    }
+}
