@@ -1,13 +1,16 @@
-package pkg6pmjava;
-
-
 public class PlayerMain {
 
     public static void main(String[] args) {
         Player p1=new Player();
+        Player p2=new Player();
+
         p1.SetPlayer(18,289,14000,"Virat Kholi");
         p1.GetPlayer();
         p1.avg();
+
+        p2.SetPlayer(45,249,12000,"Rohit Sharma");
+        p2.GetPlayer();
+        p2.avg();
     }
     
 }
