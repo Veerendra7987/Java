@@ -5,7 +5,7 @@ public class PlayerMain {
 
     public static void main(String[] args) {
         Player p1=new Player();
-        p1.SetPlayer(18,289,1400,"Virat Kholi");
+        p1.SetPlayer(18,289,14000,"Virat Kholi");
         p1.GetPlayer();
         p1.avg();
     }
