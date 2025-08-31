@@ -1,5 +1,3 @@
-package pkg6pmjava;
-
 public class College {
     String cname;
     int nos,nof;
