@@ -1,0 +1,19 @@
+public class School {
+    
+    int student,teacher;
+    String name;
+    
+    School(int student,int teacher,String name)
+    {
+        this.student=student;
+        this.teacher=teacher;
+        this.name=name;
+        
+    }
+    void getschool()
+    {
+        System.out.println("Students "+student);
+        System.out.println("Teachers "+teacher);
+        System.out.println("School Name"+name);
+    }
+}
