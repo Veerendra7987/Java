@@ -1,0 +1,12 @@
+
+package pkg6pmjava;
+
+public class SchoolMain {
+
+    public static void main(String[] args) {
+        School s1=new School(14,222,"BTIRT");
+        School s2=new School(15,223,"Gyan Sagar ");
+        s1.getschool();
+    }
+    
+}
