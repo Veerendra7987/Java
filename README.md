@@ -1,6 +1,6 @@
  # Java Programs Repository
 
-> A collection of Java programs for practice and learning.
+> A collection of Java programs for practice and learning. 
 
 ## 📂 Repository Structure
 
