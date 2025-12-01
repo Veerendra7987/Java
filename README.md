@@ -8,7 +8,7 @@
 - `src/` — contains your Java source code files, organized into packages.
 - `Normal_class/` — one of your packages (you can rename or add more). 
 - Other modules or packages as you add them.
-
+ 
 ## 🧩 About
 
 This repository contains Java programs meant for practicing Java fundamentals, algorithmic problems, small utilities, and other example programs. It is a personal learning/teaching repository.
